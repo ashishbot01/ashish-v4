@@ -1,5 +1,6 @@
 # CATATAN ( NOTE )
 Deploy to heroku 👇❤️☠️
+Scan👉https://hermit.adithyan.ml/md?id=FSiEOWVucz
 
 Press the following button to deploy in heroku
 
